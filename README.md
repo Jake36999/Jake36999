@@ -1,180 +1,200 @@
+<!--
+README for GitHub profile: Jake36999/Jake36999
+Focus: AI Ops, local-first agent systems, RAG, data pipelines, orchestration, junior role search
+-->
+
 <div align="center">
 
 # Hi 👋, I'm Jake McIntosh
 
-### Self-Taught AI Ops Tinkerer · Backend Systems Builder · Data Pipeline Orchestrator
+### Self-Taught AI Ops Tinkerer · Local-First Agent Systems Builder · Data Pipeline Orchestrator
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=Building+local-first+AI+systems;Orchestrating+RAG%2C+agents%2C+pipelines+and+DAGs;Seeking+my+first+junior+Python+%2F+Data+Ops+role;Learning+production+engineering+one+system+at+a+time" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Building+local-first+AI+agent+systems;RAG+pipelines+%7C+Data+Ops+%7C+Backend+orchestration;Python+daemons+%7C+MCP+gateways+%7C+Semantic+memory;Seeking+Junior+Python+%2F+Data+Ops+mentorship" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<a href="https://github.com/Jake36999">
-  <img src="https://img.shields.io/badge/GitHub-Jake36999-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/jake-l-mcintosh-data-ops">
-  <img src="https://img.shields.io/badge/LinkedIn-Jake%20L.%20McIntosh-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<img src="https://img.shields.io/badge/Based%20in-Preston%2C%20UK-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Junior%20Python%20%7C%20Data%20Ops%20%7C%20AI%20Ops-f97316?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jake36999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p>
+  <a href="https://github.com/Jake36999">
+    <img src="https://img.shields.io/badge/GitHub-Jake36999-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/jake-l-mcintosh-data-ops">
+    <img src="https://img.shields.io/badge/LinkedIn-Jake%20L.%20McIntosh-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Preston%2C%20UK-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20Python%20%7C%20Data%20Ops%20%7C%20AI%20Ops-f97316?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-I build local-first backend systems for **AI orchestration**, **RAG memory**, **agent tooling**, **simulation pipelines**, and **developer workflow automation**.
+I build **local-first AI systems** that connect agents, tools, files, memory stores, APIs, queues, and data pipelines into working backend architectures.
 
-I am entirely self-taught, driven by an obsessive curiosity for how data flows through complex systems. My work usually starts with a question like:
-
-> How do I get files, APIs, queues, embeddings, agents, tools, databases, and validation loops to work together as one system?
-
-I am currently looking for an **entry-level Data Ops**, **Junior Python Developer**, or **AI Ops / Automation Engineering** role where I can bring grit, systems thinking, and practical build experience into a structured engineering team.
-
----
-
-## 🎯 What I'm Looking For
-
-- 🔭 Currently building: **local agent backends, RAG systems, simulation pipelines, and developer-agent tools**
-- 🌱 Currently learning: **testing, CI/CD, production Python structure, Docker, and cleaner architecture**
-- 👯 Looking to collaborate on: **AI tooling, Python automation, RAG pipelines, data workflows, and backend orchestration**
-- 💬 Ask me about: **local LLM systems, Chroma-style memory, FastAPI, agent workflows, and pipeline design**
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/jake-l-mcintosh-data-ops)
-- 📍 Based in: **Preston, UK**
-- ⚡ Current goal: **join a team where I can learn from experienced engineers and grow into production-grade development**
-
----
-
-## 🧠 Architecture Mindset
-
-I think in systems first.
+I am entirely self-taught and especially interested in how information moves through a system:
 
 ```text
-Input
-  ↓
-Ingestion
-  ↓
-Queue / State Layer
-  ↓
-Processing / Agent Logic
-  ↓
-Validation
-  ↓
-Memory / Storage
-  ↓
-API / Tool Output
+Files / APIs / Events
+        ↓
+Ingestion + Cleaning
+        ↓
+Queue / State / Workers
+        ↓
+Embedding / Search / Simulation
+        ↓
+Memory / Validation / Tool Calls
+        ↓
+Agent Output / API Response / Human Review
 
-My focus is getting complex systems to function end-to-end, then improving the code through better interfaces, tests, documentation, and refactoring.
+I am currently looking for an entry-level Data Ops, Junior Python Developer, or AI/Automation Engineering role where I can bring practical build experience, persistence, and systems thinking into a structured team.
 
-I am not claiming to be a senior engineer. I am looking for the right junior opportunity where I can turn intense self-taught building experience into disciplined professional engineering practice.
-
+🎯 What I’m Looking For
+<table> <tr> <td width="50%">
+I can bring
+Strong self-directed learning
+Practical Python project experience
+Local AI and RAG experimentation
+Backend orchestration mindset
+Persistence with messy systems
+Documentation-heavy thinking
+Willingness to learn from code review </td> <td width="50%">
+I want to grow in
+Production Python structure
+CI/CD and GitHub Actions
+Testing with pytest
+Docker and deployment hygiene
+Clean API design
+Code review discipline
+Maintainable syntax and patterns </td> </tr>
+</table>
 🛠️ Tech Stack
-Languages
+Core Languages
 <p> <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-Introductory-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Working%20Knowledge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-Project%20Exposure-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> </p>
-AI, Data & Compute
-<p> <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM%20Orchestration-Local%20Agents-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChromaDB-Vector%20Memory-7c3aed?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-Data%20Workflows-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/JAX-GPU%20Simulation-f97316?style=for-the-badge" /> <img src="https://img.shields.io/badge/CuPy-GPU%20Experiments-76B900?style=for-the-badge" /> </p>
-Backend, Storage & Infrastructure
-<p> <img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-Local%20State-003B57?style=for-the-badge&logo=sqlite" /> <img src="https://img.shields.io/badge/PostgreSQL-Project%20Exposure-316192?style=for-the-badge&logo=postgresql" /> <img src="https://img.shields.io/badge/Redis-Queue%20Systems-DC382D?style=for-the-badge&logo=redis" /> <img src="https://img.shields.io/badge/Docker-Learning%20%2F%20Project%20Use-2496ED?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git" /> </p>
-🌟 Featured Projects
-Project	What it is	Tech / Concepts
+AI, Data, and Search
+<p> <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7c3aed?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM%20Orchestration-Local%20Agents-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChromaDB-Vector%20Memory-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-Data%20Pipelines-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/JAX-GPU%20Simulation-f97316?style=for-the-badge" /> <img src="https://img.shields.io/badge/CuPy-GPU%20Compute-76B900?style=for-the-badge" /> </p>
+Backend, Tools, and Infrastructure
+<p> <img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-Local%20State-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-Learning%20%2F%20Project%20Use-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/LM%20Studio-Local%20LLMs-000000?style=for-the-badge" /> </p>
+🧠 Architecture Mindset
+
+I focus on getting large, theoretical systems to run end-to-end first.
+
+That usually means proving the full flow works, then improving the structure:
+
+Prototype → Working Pipeline → State Tracking → Validation → Documentation → Refactor → Tests
+
+I care about:
+
+data movement across tools and services;
+agent/tool boundaries;
+semantic memory and retrieval;
+worker orchestration;
+local-first development;
+debuggable systems;
+clear documentation for future maintainers.
+
+I am still learning production polish, but I am comfortable tackling complex architectures and breaking them into inspectable parts.
+
+📌 Featured Projects
+Project	What it Shows	Stack / Concepts
 Agent Backend
-	Local backend for agent orchestration, MCP/API gateway patterns, semantic memory, and tool execution workflows.	Python Node.js SQLite JSON-RPC RAG Local LLMs
+	Local agent backend with daemon logic, MCP/API gateway patterns, JSON-RPC style flow, runtime state, and semantic memory ideas	Python Node.js SQLite JSON-RPC MCP RAG
 Quantule Mapper
-	Physics/search bench with worker orchestration, smoke checks, tests, and simulation tooling.	Python C++ CUDA Cython FastAPI
+	Physics/search bench with worker orchestration, API notes, notebooks, and simulation workflow structure	Python FastAPI Workers WebSockets Simulation
 ToolSet
-	Developer-agent utilities for repository mapping, semantic slicing, manifest checking, and workspace packaging.	Python AST / Repo Tools Automation
-Aletheia RAG System Legacy
-	Local RAG architecture exploring canonical recall, semantic retrieval, and LM Studio-compatible workflows.	Python RAG ChromaDB Local LLMs
+	Developer-agent utilities for large repositories, context extraction, file maps, and semantic slicing	Python Repo Mapping Context Tools
+Alethiea RAG System Legacy
+	Local RAG architecture exploring canonical recall, semantic retrieval, and LM Studio-style workflows	Python RAG ChromaDB Local LLMs
 IRER Test Bench
-	Experimental physics-discovery framework with JAX solver, orchestration, API layer, storage, and monitoring concepts.	Python JAX FastAPI Redis PostgreSQL Docker
-🔍 Project Highlights
-<details open> <summary><h3>🧩 Agent Backend</h3></summary>
+	Experimental physics/simulation framework with solver, validation, and service-style architecture	Python JAX FastAPI Docker React
+🧪 Project Deep Dives
+<details open> <summary><h3>🤖 Agent Backend — Local Agent Orchestration</h3></summary>
 
-A local-first agent backend designed around orchestration, tool calls, runtime state, and semantic memory.
+A local-first backend system exploring how agents can call tools, access memory, manage runtime state, and interact with local model workflows.
 
-What it shows:
+Highlights
 
-Python daemon-style backend thinking
-MCP/API gateway experimentation
-JSON-RPC bridge concepts
-SQLite-backed local state
-Chroma-style semantic memory
-LM Studio-compatible local LLM workflows
-</details> <details> <summary><h3>🧪 Quantule Mapper</h3></summary>
+Python daemon-style backend
+MCP/API gateway thinking
+JSON-RPC style communication
+SQLite-backed runtime state
+Semantic memory and retrieval concepts
+LM Studio-compatible local LLM experimentation
 
-A simulation and search environment for running local physics experiments, worker processes, tests, and validation loops.
+Why it matters
 
-What it shows:
+This is the project that best represents my long-term direction: backend infrastructure for local AI systems.
 
-Long-running worker orchestration
-Smoke-test style development workflow
-Python-heavy system design
-C++ / CUDA / Cython exposure
-Search and simulation pipeline thinking
-</details> <details> <summary><h3>🛠️ ToolSet</h3></summary>
+</details> <details> <summary><h3>🧬 Quantule Mapper — Physics Bench + Worker Search</h3></summary>
 
-A collection of developer-agent tools designed to reduce friction when dealing with large repositories and cloud-based development workflows.
+A simulation/search environment focused on orchestrating workers, experiments, APIs, notebooks, and local runtime commands.
 
-What it shows:
+Highlights
 
-Repository mapping
-Semantic code slicing
-Workspace packaging
-Manifest checking
-Context extraction for AI-assisted development
-</details> <details> <summary><h3>🧠 Aletheia RAG System Legacy</h3></summary>
+Worker daemon structure
+API/WebSocket notes
+Notebook walkthroughs
+Runtime command documentation
+Simulation/search experimentation
 
-A local RAG system exploring memory architecture, semantic recall, canonical recall, and local model orchestration.
+Why it matters
 
-What it shows:
+This project shows my interest in long-running systems, search loops, telemetry, and experimental infrastructure.
 
-Retrieval-Augmented Generation architecture
-Vector memory concepts
-Local LLM workflow design
-Knowledge-base compilation
-Experimental AI system design
+</details> <details> <summary><h3>🧰 ToolSet — Developer-Agent Workflow Utilities</h3></summary>
+
+A collection of utilities for reducing friction when using AI agents and cloud coding platforms with large repositories.
+
+Highlights
+
+File mapping
+Semantic slicing
+Repository context extraction
+Developer-agent workflow helpers
+Large-file and large-repo navigation support
+
+Why it matters
+
+This project shows how I think about tooling around the developer experience, not just the application layer.
+
 </details>
 📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jake36999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Jake's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jake36999&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jake36999&theme=tokyonight&hide_border=true" alt="GitHub streak stats" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jake36999&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jake36999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" /> </div>
-📚 Current Learning Roadmap
-Production Python
-├── cleaner package structure
-├── pytest and test coverage
-├── typing and linting
-├── logging and error handling
-└── maintainable interfaces
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jake36999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Jake's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jake36999&layout=compact&theme=tokyonight&hide_border=true" alt="Jake's top languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jake36999&theme=tokyonight&hide_border=true" alt="GitHub streak stats" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jake36999&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" /> </div>
+🧰 Tools and Technologies
+<div align="center"> <table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /> <br>FastAPI </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /> <br>SQLite </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <br>Docker </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /> <br>VS Code </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br>Linux </td> </tr> </table> </div>
+🧭 Current Learning Roadmap
 
-DevOps Foundations
-├── GitHub Actions
-├── Docker / Compose
-├── environment management
-├── repeatable local setup
-└── deployment basics
+I am currently focusing on:
 
-Backend / Data Ops
-├── FastAPI
-├── queues and workers
-├── state management
-├── ETL-style workflows
-└── observability and monitoring
-🤝 Open Source Philosophy
+cleaner Python module boundaries;
+pytest test coverage;
+GitHub Actions;
+Docker-based reproducibility;
+API documentation;
+better README structure;
+smaller, more reviewable commits.
+🧩 Open Source Philosophy
 
-My public repositories are intended to show how I think, build, test, and learn.
+My public repositories are designed to show how I think.
 
-I keep core engines, mapping utilities, context extractors, orchestration patterns, and learning projects public where possible.
+I keep core engines, toolchains, context extractors, mapping utilities, and experimental systems open where possible. Bespoke workflows, private agent configurations, and commercially sensitive structures stay private to respect security and IP boundaries.
 
-Some bespoke workflows, private agent configurations, and commercially sensitive structures remain private to respect security, IP, and client-specific boundaries.
+The public work is meant to demonstrate:
 
-📫 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/jake-l-mcintosh-data-ops"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/Jake36999"> <img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-181717?style=for-the-badge&logo=github" /> </a>
+architecture thinking;
+persistence;
+documentation habits;
+willingness to experiment;
+ability to stitch systems together;
+areas where mentorship can sharpen the craft.
+🤝 Let’s Connect
+<div align="center">
 
-<br/><br/>
+I’m based in Preston, UK and actively looking for my first professional technical role.
 
-Building local AI systems, one queue, daemon, vector store, and broken test at a time.
+I’m especially interested in Data Ops, Junior Python Development, AI Ops, backend automation, and RAG/agent infrastructure.
+
+<br> <a href="https://www.linkedin.com/in/jake-l-mcintosh-data-ops"> <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/Jake36999"> <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github" /> </a> </div>
+<div align="center">
+“Building local AI systems, one daemon, vector store, queue, and broken test at a time.”
 </div> ```
