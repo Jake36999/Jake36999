@@ -139,7 +139,7 @@ Not a per-project trait — the same four habits show up independently across ev
 | [remember_me](https://github.com/Jake36999/remember_me) | Local-first RAG notes app — real sync state machine, citation-required retrieval, review-first artifact generation | `Rust` `Tauri` `React` `FastAPI` `pgvector` |
 | [ToolSet](https://github.com/Jake36999/ToolSet) | 12-phase, gate-enforced dev toolchain (289/289 tests) with a custom reviewer that rejects unproven claims | `Python` `MCP` `CI/CD` |
 | [network_management](https://github.com/Jake36999/network_management) | Device-free RF presence sensing fused with network security correlation — proven infrastructure, open research on the model | `Python` `Intel 5300 CSI` `Wazuh` `mTLS` |
-| [quantule_mapper](https://github.com/Jake36999/-quantule_mapper) | 15 months stress-testing self-derived physics reasoning through progressively rigorous simulation — ongoing by design | `Python` `JAX` `CuPy` `FastAPI` |
+| [quantule_mapper](https://github.com/Jake36999/quantule_mapper) | 15 months stress-testing self-derived physics reasoning through progressively rigorous simulation — ongoing by design | `Python` `JAX` `CuPy` `FastAPI` |
 
 ---
 
