@@ -1,16 +1,16 @@
 <!--
 README for GitHub profile: Jake36999/Jake36999
-Focus: AI Ops, local-first agent systems, RAG, data pipelines, orchestration, junior role search
+Focus: local-first agentic AI systems, tool-calling governance, RAG memory, applied ML pipelines
 -->
 
 <div align="center">
 
 # Hi 👋, I'm Jake McIntosh
 
-### Self-Taught AI Ops Tinkerer · Local-First Agent Systems Builder · Data Pipeline Orchestrator
+### Local-First Agentic AI Systems · Tool-Calling Governance & Safety · Applied ML Pipelines
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Building+local-first+AI+agent+systems;RAG+pipelines+%7C+Data+Ops+%7C+Backend+orchestration;Python+daemons+%7C+MCP+gateways+%7C+Semantic+memory;Seeking+Junior+Python+%2F+Data+Ops+mentorship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Local-first+agentic+AI+systems+with+provenance+and+HITL+safety+by+default;Tool-calling+governance+%7C+RAG+memory+%7C+Applied+ML+pipelines;Cryptographic+audit+trails+%7C+Approval+gates+%7C+Honest+scope+claims;15+months+self-taught+%7C+Open+to+AI+eval%2Ftraining+contract+work" alt="Typing SVG" />
 </p>
 
 <p>
@@ -21,7 +21,7 @@ Focus: AI Ops, local-first agent systems, RAG, data pipelines, orchestration, ju
     <img src="https://img.shields.io/badge/LinkedIn-Jake%20L.%20McIntosh-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Preston%2C%20UK-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Junior%20Python%20%7C%20Data%20Ops%20%7C%20AI%20Ops-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Eval%2FTraining%20%7C%20Agent%20Systems%20Contracts-f97316?style=for-the-badge" />
 </p>
 
 </div>
@@ -30,9 +30,9 @@ Focus: AI Ops, local-first agent systems, RAG, data pipelines, orchestration, ju
 
 ## 🧭 About Me
 
-I build **local-first AI systems** that connect agents, tools, files, memory stores, APIs, queues, and data pipelines into working backend architectures.
+I build **local-first agentic AI systems** — tool-calling architectures, RAG memory, and applied ML pipelines — with the same discipline applied everywhere: cryptographic provenance, human-in-the-loop approval gates, and honest, narrow scope claims instead of overclaiming what a system can do.
 
-I am entirely self-taught and especially interested in how information moves through a system:
+15 months self-taught, six active repositories, one consistent pattern across every one of them: systems that catch and report their own failures rather than silently shipping something that looks like it worked.
 
 ```text
 Files / APIs / Events
@@ -48,38 +48,34 @@ Memory / Validation / Tool Calls
 Agent Output / API Response / Human Review
 ```
 
-I am currently looking for an **entry-level Data Ops**, **Junior Python Developer**, or **AI/Automation Engineering** role where I can bring practical build experience, persistence, and systems thinking into a structured team.
+Prior career: electronic components sales, 280 accounts. That background is why the AI systems I build default to human-in-the-loop rather than full autonomy — I've seen what a wrong automated decision actually costs.
 
 ---
 
-## 🎯 What I’m Looking For
+## ✅ What's Proven vs. What I'm Still Building
 
 <table>
   <tr>
     <td width="50%">
 
-### I can bring
+### Proven, with evidence
 
-- Strong self-directed learning
-- Practical Python project experience
-- Local AI and RAG experimentation
-- Backend orchestration mindset
-- Persistence with messy systems
-- Documentation-heavy thinking
-- Willingness to learn from code review
+- Cryptographically-audited data pipelines, validated end-to-end against real production codebases
+- HITL approval + rollback systems with hash-verified diffs
+- 12-phase, gate-enforced development processes (289/289 tests)
+- RAG memory systems with citation-required retrieval
+- Local desktop AI systems used daily, not just demoed
+- Reading and correctly diagnosing hardware/protocol-level incompatibilities (CSI packet-shape mismatches, driver patching)
 
     </td>
     <td width="50%">
 
-### I want to grow in
+### Genuinely still building
 
-- Production Python structure
-- CI/CD and GitHub Actions
-- Testing with `pytest`
-- Docker and deployment hygiene
-- Clean API design
-- Code review discipline
-- Maintainable syntax and patterns
+- Team collaboration on a shared codebase, at pace, under someone else's spec
+- Delivery under a client deadline with external accountability
+- Production traffic / real external users (everything above runs locally, for me)
+- Formal algorithms/CS-fundamentals depth — self-taught, unverified against a curriculum
 
     </td>
   </tr>
@@ -93,127 +89,125 @@ I am currently looking for an **entry-level Data Ops**, **Junior Python Develope
 
 <p>
   <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-Introductory-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Working%20Knowledge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-Tauri%20Backend-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%2FNode.js-MCP%20Gateways-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-Project%20Exposure-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### AI, Data, and Search
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Orchestration-Local%20Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Memory-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Pipelines-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/JAX-GPU%20Simulation-f97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CuPy-GPU%20Compute-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Citation--Required%20Retrieval-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Calling%20%2F%20Governance-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector%20%2F%20ChromaDB-Vector%20Memory-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tree--sitter-AST%20Code%20Slicing-14b8a6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JAX%20%2F%20CuPy-GPU%20Simulation-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic%20v2-Strict%20Contracts-e10098?style=for-the-badge" />
 </p>
 
 ### Backend, Tools, and Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-Local%20State-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Learning%20%2F%20Project%20Use-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery%20%2B%20Redis-Distributed%20Workers-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite%20%2F%20Postgres-Durable%20State-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Multi--Service%20Deploys-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/LM%20Studio-Local%20LLMs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Architecture Mindset
+## 🔐 How I Build Things
 
-I focus on getting large, theoretical systems to run end-to-end first.
+Not a per-project trait — the same four habits show up independently across every repository below, in five unrelated domains:
 
-That usually means proving the full flow works, then improving the structure:
-
-```text
-Prototype → Working Pipeline → State Tracking → Validation → Documentation → Refactor → Tests
-```
-
-I care about:
-
-- **data movement** across tools and services;
-- **agent/tool boundaries**;
-- **semantic memory and retrieval**;
-- **worker orchestration**;
-- **local-first development**;
-- **debuggable systems**;
-- **clear documentation for future maintainers**.
-
-I am still learning production polish, but I am comfortable tackling complex architectures and breaking them into inspectable parts.
+- **Cryptographic / hash-verified audit trails.** SHA-256 hash-chained ledgers, SHA256-verified patch diffs before any code change applies, SHA1 manifest fingerprints on every file map.
+- **Quarantine, never silently delete.** Bad artifacts get isolated and logged, not discarded — the failure stays inspectable.
+- **Honest, narrow scope claims.** Explicit non-goal lists. A model stays labelled at exactly the confidence level it's earned, not the one that sounds better.
+- **Gates that catch my own mistakes.** A readiness gate that caught a collapsed model and correctly burned it instead of shipping it. A review process that rejects unproven claims outright, including my own.
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | What it Shows | Stack / Concepts |
+| Project | What it Shows | Stack |
 |:--|:--|:--|
-| [Agent Backend](https://github.com/Jake36999/Agent_backend) | Local agent backend with daemon logic, MCP/API gateway patterns, JSON-RPC style flow, runtime state, and semantic memory ideas | `Python` `Node.js` `SQLite` `JSON-RPC` `MCP` `RAG` |
-| [Quantule Mapper](https://github.com/Jake36999/quantule_mapper) | Physics/search bench with worker orchestration, API notes, notebooks, and simulation workflow structure | `Python` `FastAPI` `Workers` `WebSockets` `Simulation` |
-| [ToolSet](https://github.com/Jake36999/ToolSet) | Developer-agent utilities for large repositories, context extraction, file maps, and semantic slicing | `Python` `Repo Mapping` `Context Tools` |
-| [Alethiea RAG System Legacy](https://github.com/Jake36999/Alethiea_rag_system_legacy) | Local RAG architecture exploring canonical recall, semantic retrieval, and LM Studio-style workflows | `Python` `RAG` `ChromaDB` `Local LLMs` |
-| [IRER Test Bench](https://github.com/Jake36999/IRER_FOCUSED_SDG_RK4INT---test_bench) | Experimental physics/simulation framework with solver, validation, and service-style architecture | `Python` `JAX` `FastAPI` `Docker` `React` |
+| [Custom_Agent_Forge](https://github.com/Jake36999/Custom_Agent_Forge) | Cryptographically-audited fine-tuning data pipeline, validated end-to-end against a real production codebase | `Python` `FastAPI` `Celery` `Redis` `Pydantic v2` `tree-sitter` `Docker` |
+| [Mark-XLVIII](https://github.com/Jake36999/Mark-XLVIII-main) | Local desktop AI assistant I use daily — dual-mode planning with a human+model review gate before any workflow runs | `Python` `PyQt6` `MCP` `LM Studio` |
+| [Agent_backend](https://github.com/Jake36999/Agent_backend) | MCP-compatible agent orchestrator with HITL-gated, hash-verified patch apply and rollback | `Python` `Node.js` `SQLite` `JSON-RPC` `MCP` |
+| [remember_me](https://github.com/Jake36999/remember_me) | Local-first RAG notes app — real sync state machine, citation-required retrieval, review-first artifact generation | `Rust` `Tauri` `React` `FastAPI` `pgvector` |
+| [ToolSet](https://github.com/Jake36999/ToolSet) | 12-phase, gate-enforced dev toolchain (289/289 tests) with a custom reviewer that rejects unproven claims | `Python` `MCP` `CI/CD` |
+| [network_management](https://github.com/Jake36999/network_management) | Device-free RF presence sensing fused with network security correlation — proven infrastructure, open research on the model | `Python` `Intel 5300 CSI` `Wazuh` `mTLS` |
+| [quantule_mapper](https://github.com/Jake36999/-quantule_mapper) | 15 months stress-testing self-derived physics reasoning through progressively rigorous simulation — ongoing by design | `Python` `JAX` `CuPy` `FastAPI` |
 
 ---
 
 ## 🧪 Project Deep Dives
 
 <details open>
-<summary><h3>🤖 Agent Backend — Local Agent Orchestration</h3></summary>
+<summary><h3>🔗 Custom_Agent_Forge — Cryptographically-Audited Training Data</h3></summary>
 
-A local-first backend system exploring how agents can call tools, access memory, manage runtime state, and interact with local model workflows.
+**Problem:** fine-tuning on a codebase usually means dumping files at an LLM and hoping the examples are correct, with no way to prove after the fact that a row wasn't hallucinated.
 
-**Highlights**
+**What I built:** a five-layer pipeline (ingest → topology → semantic projection → strict validation → synthesis) that produces ChatML/QLoRA training data with a SHA-256 hash-chained ledger tracing every accept/reject decision, plus cycle-quarantine handling for the circular dependencies real codebases actually have.
 
-- Python daemon-style backend
-- MCP/API gateway thinking
-- JSON-RPC style communication
-- SQLite-backed runtime state
-- Semantic memory and retrieval concepts
-- LM Studio-compatible local LLM experimentation
-
-**Why it matters**
-
-This is the project that best represents my long-term direction: backend infrastructure for local AI systems.
+**Proof:** V2.0 run against `encode/starlette` — 1,615 nodes extracted, 198 cycle-quarantined, 6,994 ledger entries at 100% verified integrity, 427 tests passing, 1.17M-row output matrix.
 
 </details>
 
 <details>
-<summary><h3>🧬 Quantule Mapper — Physics Bench + Worker Search</h3></summary>
+<summary><h3>🤖 Mark-XLVIII — Local Desktop AI Assistant</h3></summary>
 
-A simulation/search environment focused on orchestrating workers, experiments, APIs, notebooks, and local runtime commands.
+**Problem:** most personal AI assistant projects are demos. I wanted something I'd actually trust to run my own workflows daily.
 
-**Highlights**
+**What I built:** a fully local runtime (no cloud dependency for any core capability) with dual-mode planning — either a reviewable Markdown plan or a Canvas graph, both compiling to version-bound run artifacts, gated behind a human+model dual-critic review before anything executes.
 
-- Worker daemon structure
-- API/WebSocket notes
-- Notebook walkthroughs
-- Runtime command documentation
-- Simulation/search experimentation
-
-**Why it matters**
-
-This project shows my interest in long-running systems, search loops, telemetry, and experimental infrastructure.
+**Proof:** it's my daily driver — commits land against it most days, and everything distinctive about it (planning, memory, vision, the safety layer) is original work, not a fork of its open-source foundation.
 
 </details>
 
 <details>
-<summary><h3>🧰 ToolSet — Developer-Agent Workflow Utilities</h3></summary>
+<summary><h3>🛡️ Agent_backend — MCP Orchestrator with Governed Patching</h3></summary>
 
-A collection of utilities for reducing friction when using AI agents and cloud coding platforms with large repositories.
+**Problem:** letting an agent modify code directly is a liability unless every change is verifiable and reversible.
 
-**Highlights**
+**What I built:** a local MCP-compatible orchestrator where code patches require an explicit approval record and a SHA256 diff match before applying, with automatic snapshot-based rollback.
 
-- File mapping
-- Semantic slicing
-- Repository context extraction
-- Developer-agent workflow helpers
-- Large-file and large-repo navigation support
+**Proof:** `v0.2.0-wave1-pipeline-bindings`, 264 Python + 25 Node tests passing per the last audit.
 
-**Why it matters**
+</details>
 
-This project shows how I think about tooling around the developer experience, not just the application layer.
+<details>
+<summary><h3>🧠 remember_me — RAG Notes That Don't Lie About Their Sources</h3></summary>
+
+**Problem:** most RAG note apps will answer confidently even when nothing relevant was actually indexed.
+
+**What I built:** a local-first notes app with a real sync state machine (capture always succeeds even with the backend down), citation-required retrieval that says "not found" instead of guessing, and review-first artifact generation that never auto-commits.
+
+**Proof:** working end-to-end — local capture, backend sync with retry/backoff, lexical and semantic search, citations on every result.
+
+</details>
+
+<details>
+<summary><h3>🧰 ToolSet — A Toolchain That Rejects Its Own Unproven Claims</h3></summary>
+
+**Problem:** dev tooling quietly rots when nothing enforces that "done" actually means tested and working.
+
+**What I built:** a 12-phase rebuild of a repo-analysis toolchain, each phase gated behind passing tests and explicit approval, enforced by a custom reviewer that rejects any change lacking actual terminal-verified proof — editor diagnostics don't count.
+
+**Proof:** 289/289 tests passing across all 12 phases, plus CI running the full matrix on every push.
+
+</details>
+
+<details>
+<summary><h3>📡 network_management — RF Sensing Fused with Security Correlation</h3></summary>
+
+**Problem:** device-free presence sensing (Wi-Fi CSI) and network security monitoring are normally separate disciplines with no shared timeline.
+
+**What I built:** a hybrid node that captures Intel 5300 CSI over a patched driver, bridges it across hosts via mTLS, and correlates it against network recon telemetry into a single SIEM timeline — locked and proven as of June 2026. The presence-sensing model itself is honest open research: the off-the-shelf model I tried first didn't fit the richer CSI shape my hardware produces, so I'm training a narrowly-scoped classifier from scratch instead of overclaiming a fix.
+
+**Proof:** infrastructure verified and repeatable; the model work has a readiness gate that already caught and correctly discarded one bad training run rather than shipping it.
 
 </details>
 
@@ -254,8 +248,8 @@ This project shows how I think about tooling around the developer experience, no
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br>Rust
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -270,11 +264,19 @@ This project shows how I think about tooling around the developer experience, no
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
@@ -284,20 +286,12 @@ This project shows how I think about tooling around the developer experience, no
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
     </td>
   </tr>
 </table>
@@ -306,53 +300,46 @@ This project shows how I think about tooling around the developer experience, no
 
 ---
 
-## 🧭 Current Learning Roadmap
+## 🧭 Current Direction
 
 ```mermaid
 flowchart LR
-    A[Working Local Systems] --> B[Cleaner Python Packages]
-    B --> C[Tests with pytest]
-    C --> D[GitHub Actions CI]
-    D --> E[Dockerised Services]
-    E --> F[Junior Production Engineering]
+    A[Working Local Systems] --> B[Cross-Repo Provenance Patterns]
+    B --> C[Applied to Real Client Constraints]
+    C --> D[Contract / Consulting Delivery]
+    D --> E[BOM Sourcing Agent - Long Horizon]
 ```
 
-I am currently focusing on:
+I'm currently focused on:
 
-- cleaner Python module boundaries;
-- `pytest` test coverage;
-- GitHub Actions;
-- Docker-based reproducibility;
-- API documentation;
-- better README structure;
-- smaller, more reviewable commits.
+- turning proven local systems into paid AI training/evaluation work;
+- applying the same governance patterns to real client problems, not just personal infrastructure;
+- a long-horizon project applying my sourcing/procurement background (280 accounts, electronic components) to an agent that helps independent brokers cross-reference obsolete and allocation-constrained parts.
 
 ---
 
 ## 🧩 Open Source Philosophy
 
-My public repositories are designed to show how I think.
+My public repositories are designed to show how I think, not just what I built.
 
-I keep core engines, toolchains, context extractors, mapping utilities, and experimental systems open where possible. Bespoke workflows, private agent configurations, and commercially sensitive structures stay private to respect security and IP boundaries.
+I keep core engines, toolchains, context extractors, and experimental systems open where possible. Bespoke workflows, private agent configurations, and commercially sensitive structures stay private to respect security and IP boundaries — and where a project builds on someone else's open-source foundation, that foundation is credited and its license respected, not quietly absorbed.
 
 The public work is meant to demonstrate:
 
-- architecture thinking;
-- persistence;
-- documentation habits;
-- willingness to experiment;
-- ability to stitch systems together;
-- areas where mentorship can sharpen the craft.
+- provenance and audit-trail thinking, applied consistently rather than as a one-off feature;
+- honest scope — claiming exactly what's proven, no more;
+- persistence through genuine dead ends (adapting hardware, discarding a bad model, changing direction when the evidence says to);
+- ability to stitch systems together end-to-end, not just in isolation.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I’m based in **Preston, UK** and actively looking for my first professional technical role.
+I'm based in **Preston, UK**, and open to **AI training/evaluation contract work**, **agent systems consulting**, and **backend automation** engagements.
 
-I’m especially interested in **Data Ops**, **Junior Python Development**, **AI Ops**, **backend automation**, and **RAG/agent infrastructure**.
+I lead with evidence, not job titles — the repositories above are the actual argument.
 
 <br>
 
@@ -370,6 +357,6 @@ I’m especially interested in **Data Ops**, **Junior Python Development**, **AI
 
 <div align="center">
 
-### “Building local AI systems, one daemon, vector store, queue, and broken test at a time.”
+### "Trust, but verify — the principle behind every audit trail, approval gate, and honest scope claim above."
 
 </div>
