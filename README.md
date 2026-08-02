@@ -32,7 +32,7 @@ Focus: local-first agentic AI systems, tool-calling governance, RAG memory, appl
 
 I build **local-first agentic AI systems** — tool-calling architectures, RAG memory, and applied ML pipelines — with the same discipline applied everywhere: cryptographic provenance, human-in-the-loop approval gates, and honest, narrow scope claims instead of overclaiming what a system can do.
 
-15 months self-taught, six active repositories, one consistent pattern across every one of them: systems that catch and report their own failures rather than silently shipping something that looks like it worked.
+Started teaching myself to code 15 months ago to validate my own physics reasoning — that's `quantule_mapper`, still running. AI/ML came along the way to support it; the other five repos are the product of the last 6 months. One consistent pattern across all of them: systems that catch and report their own failures rather than silently shipping something that looks like it worked.
 
 ```text
 Files / APIs / Events
